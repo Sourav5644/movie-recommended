@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Ignore large datasets
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+
+# Ignore large model files
+similarity.pkl
+movie_list.pkl
